@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/pytest-aio/commit/8b54be4cab63ea2b6d74d27ff0ed15838a6366e0",
       "git:hexsha": "8b54be4cab63ea2b6d74d27ff0ed15838a6366e0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.1.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.1.7",
+      "repolex:parsedAt": "2026-10-20T21:44:07.408109+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/pytest-aio/commit/882d2fdfaf8f80b3687929dae237fdf9f888276d",
