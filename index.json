@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "pytest-aio",
+  "versions": [
+    {
+      "commit": "8b54be4cab63ea2b6d74d27ff0ed15838a6366e0",
+      "tag": "2.1.7",
+      "parsed_at": "2026-10-20T21:44:07.408700+00:00"
+    }
+  ]
+}
